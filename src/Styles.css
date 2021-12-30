@@ -1,0 +1,21 @@
+.footer-wrap{
+    background-color: #e6e6e6;
+}
+.copyright
+{
+    background-color: black;
+    padding:1rem 0;
+}
+.copyText{
+    color: #fff;
+    margin-bottom: 0;
+    
+    
+}
+.first{
+    color: #fff;
+    font-weight: 800;
+}
+.temp{
+    color: #21B6A8 ;
+}

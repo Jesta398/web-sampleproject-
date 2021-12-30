@@ -1,0 +1,14 @@
+.image-wrapper{
+    background-color:#e6e6e6;
+    height: 280px;
+
+
+}
+.image-wrapper img{
+    height: 240px;
+    width: 240px;
+}
+.title{
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+}
